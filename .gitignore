@@ -1,13 +1,18 @@
-
-bin/
-obj/
-.vscode/
-*.sdf
-*.user
+# Ignore VS files
+*.vs
 *.suo
-*.exe
-*.log
-*.ipch
-*.ncb
-*.ilk
+*.user
+*.cache
 *.pdb
+*.ipch
+*.db
+*.log
+
+# Ignore compiled binaries
+/bin/
+/obj/
+*.exe
+*.dll
+
+# Ignore hidden system files
+Thumbs.db
