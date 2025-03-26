@@ -1,0 +1,13 @@
+
+bin/
+obj/
+.vscode/
+*.sdf
+*.user
+*.suo
+*.exe
+*.log
+*.ipch
+*.ncb
+*.ilk
+*.pdb

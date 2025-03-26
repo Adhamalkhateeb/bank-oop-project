@@ -1,0 +1,1078 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Core Utility Classes\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Core Utility Classes\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Core Utility Classes\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Entities\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Users\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Users\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsWithDrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Transactions\\clsWithDrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Transactions\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Transactions\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Transactions\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Transactions\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsDepositionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Transactions\\clsDepositionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Main\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Main\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Currencies\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Currencies\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Currencies\\clsCurrencyListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Currencies\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyCalaculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Currencies\\clsCurrencyCalaculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Clients\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Clients\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Clients\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Clients\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Clients\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Authentication\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Authentication\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Authentication\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Authentication\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Entities\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Entities\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Entities\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Core Utility Classes\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Users\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsListUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Users\\clsListUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\clsGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:clsGlobal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Screens\\Users\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0373A228-462E-4FA1-8E9B-6EB3CA6F76BF}|Bank OOP project.vcxproj|solutionrelative:Bank OOP project.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank Project\\Bank Project\\Bank Project 2\\Bank Project\\x64\\Debug\\Screens\\Client\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsCurrencyListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyCalaculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsCurrencyCalaculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsManageUsers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsListUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsListUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsWithDrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsWithDrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDepositionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsDepositionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank OOP project\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Users\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "Screens\\Users\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:46:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsTransferLogScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransferLogScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transactions\\clsTransferLogScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransferLogScreen.h",
+              "RelativeToolTip": "Screens\\Transactions\\clsTransferLogScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:52:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transactions\\clsTransferScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransferScreen.h",
+              "RelativeToolTip": "Screens\\Transactions\\clsTransferScreen.h",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:52:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsWithDrawScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsWithDrawScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transactions\\clsWithDrawScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsWithDrawScreen.h",
+              "RelativeToolTip": "Screens\\Transactions\\clsWithDrawScreen.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:53:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Entities\\clsBankClient.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsBankClient.h",
+              "RelativeToolTip": "Entities\\clsBankClient.h",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAAEIBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:41:37.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsDate.h",
+              "RelativeDocumentMoniker": "Core Utility Classes\\clsDate.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsDate.h",
+              "RelativeToolTip": "Core Utility Classes\\clsDate.h",
+              "ViewState": "AgIAAIsDAAAAAAAAAAAAAFQEAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:41:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsString.h",
+              "RelativeDocumentMoniker": "Core Utility Classes\\clsString.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsString.h",
+              "RelativeToolTip": "Core Utility Classes\\clsString.h",
+              "ViewState": "AgIAAN4BAAAAAAAAAAAAAPoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T05:50:05.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Core Utility Classes\\clsInputValidate.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsInputValidate.h",
+              "RelativeToolTip": "Core Utility Classes\\clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T05:49:19.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsTotalBalancesScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTotalBalancesScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transactions\\clsTotalBalancesScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTotalBalancesScreen.h",
+              "RelativeToolTip": "Screens\\Transactions\\clsTotalBalancesScreen.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:29:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsTransactionScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransactionScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transactions\\clsTransactionScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsTransactionScreen.h",
+              "RelativeToolTip": "Screens\\Transactions\\clsTransactionScreen.h",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:27:43.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDepositionScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsDepositionScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transactions\\clsDepositionScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Transactions\\clsDepositionScreen.h",
+              "RelativeToolTip": "Screens\\Transactions\\clsDepositionScreen.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:28:25.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Users\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Screens\\Users\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:53:38.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Main\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Main\\clsMainScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Main\\clsMainScreen.h",
+              "RelativeToolTip": "Screens\\Main\\clsMainScreen.h",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:24:42.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currencies\\clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "Screens\\Currencies\\clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:22:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currencies\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "Screens\\Currencies\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:22:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsCurrencyListScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyListScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currencies\\clsCurrencyListScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyListScreen.h",
+              "RelativeToolTip": "Screens\\Currencies\\clsCurrencyListScreen.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:21:34.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsCurrencyExchangeMainScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyExchangeMainScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currencies\\clsCurrencyExchangeMainScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyExchangeMainScreen.h",
+              "RelativeToolTip": "Screens\\Currencies\\clsCurrencyExchangeMainScreen.h",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:20:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsCurrencyCalaculatorScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyCalaculatorScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currencies\\clsCurrencyCalaculatorScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Currencies\\clsCurrencyCalaculatorScreen.h",
+              "RelativeToolTip": "Screens\\Currencies\\clsCurrencyCalaculatorScreen.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:19:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Clients\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "Screens\\Clients\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:19:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Clients\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsFindClientScreen.h",
+              "RelativeToolTip": "Screens\\Clients\\clsFindClientScreen.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:18:21.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Clients\\clsDeleteClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "Screens\\Clients\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:18:10.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Clients\\clsClientListScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsClientListScreen.h",
+              "RelativeToolTip": "Screens\\Clients\\clsClientListScreen.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:17:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Clients\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Clients\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "Screens\\Clients\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:15:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Authentication\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Authentication\\clsLoginScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Authentication\\clsLoginScreen.h",
+              "RelativeToolTip": "Screens\\Authentication\\clsLoginScreen.h",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:23:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsLoginRegisterScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Authentication\\clsLoginRegisterScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Authentication\\clsLoginRegisterScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Authentication\\clsLoginRegisterScreen.h",
+              "RelativeToolTip": "Screens\\Authentication\\clsLoginRegisterScreen.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:23:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsUser.h",
+              "RelativeDocumentMoniker": "Entities\\clsUser.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsUser.h",
+              "RelativeToolTip": "Entities\\clsUser.h",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAAADsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T05:51:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsPerson.h",
+              "RelativeDocumentMoniker": "Entities\\clsPerson.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsPerson.h",
+              "RelativeToolTip": "Entities\\clsPerson.h",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T05:51:52.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsCurrency.h",
+              "RelativeDocumentMoniker": "Entities\\clsCurrency.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Entities\\clsCurrency.h",
+              "RelativeToolTip": "Entities\\clsCurrency.h",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAALwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T05:51:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsUtil.h",
+              "RelativeDocumentMoniker": "Core Utility Classes\\clsUtil.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Core Utility Classes\\clsUtil.h",
+              "RelativeToolTip": "Core Utility Classes\\clsUtil.h",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T15:31:08.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Users\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "Screens\\Users\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:55:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsManageUsers.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsManageUsers.h",
+              "RelativeDocumentMoniker": "Screens\\Users\\clsManageUsers.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsManageUsers.h",
+              "RelativeToolTip": "Screens\\Users\\clsManageUsers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:55:11.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsListUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsListUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Users\\clsListUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\Users\\clsListUserScreen.h",
+              "RelativeToolTip": "Screens\\Users\\clsListUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:55:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ViewState": "AgIAAG4HAAAAAAAAAAAwwHoHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-24T07:35:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T07:34:54.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\clsScreen.h",
+              "RelativeDocumentMoniker": "Screens\\clsScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Screens\\clsScreen.h",
+              "RelativeToolTip": "Screens\\clsScreen.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:55:49.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsGlobal.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\clsGlobal.h",
+              "RelativeDocumentMoniker": "clsGlobal.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\clsGlobal.h",
+              "RelativeToolTip": "clsGlobal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:10:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:03:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindClientScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsFindClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:22:51.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindUserScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsFindUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:32:28.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:00:08.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsCurrencyListScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyListScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsCurrencyListScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyListScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsCurrencyListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:05:44.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:31:42.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clsTotalBalancesScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTotalBalancesScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsTotalBalancesScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTotalBalancesScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsTotalBalancesScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:22:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:02:58.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsLoginScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsLoginScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsLoginScreen.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:41:17.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsMainScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsMainScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsMainScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:06:58.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:08:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "clsCurrencyCalaculatorScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyCalaculatorScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsCurrencyCalaculatorScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyCalaculatorScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsCurrencyCalaculatorScreen.h",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:09:29.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "clsCurrencyExchangeMainScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyExchangeMainScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsCurrencyExchangeMainScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsCurrencyExchangeMainScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsCurrencyExchangeMainScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:27:52.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Bank OOP project.rc",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project.rc",
+              "RelativeDocumentMoniker": "Bank OOP project.rc",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project.rc",
+              "RelativeToolTip": "Bank OOP project.rc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-14T14:46:14.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:06:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "clsLoginRegisterScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsLoginRegisterScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsLoginRegisterScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsLoginRegisterScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsLoginRegisterScreen.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:03:46.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "clsManageUsers.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsManageUsers.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsManageUsers.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsManageUsers.h",
+              "RelativeToolTip": "Bank OOP project\\clsManageUsers.h",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T14:01:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsListUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsListUserScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsListUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsListUserScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsListUserScreen.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:33:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:30:55.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "clsTransferLogScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransferLogScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsTransferLogScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransferLogScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsTransferLogScreen.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:28:20.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsTransferScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransferScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsTransferScreen.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:27:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:25:58.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "clsWithDrawScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsWithDrawScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsWithDrawScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsWithDrawScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsWithDrawScreen.h",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:24:59.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "clsTransactionScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransactionScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsTransactionScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsTransactionScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsTransactionScreen.h",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwIYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:23:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank Project\\Bank Project\\Bank Project 2\\Bank Project\\x64\\Debug\\Screens\\Client\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "..\\Bank Project\\Bank Project\\Bank Project 2\\Bank Project\\x64\\Debug\\Screens\\Client\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank Project\\Bank Project\\Bank Project 2\\Bank Project\\x64\\Debug\\Screens\\Client\\clsFindClientScreen.h",
+              "RelativeToolTip": "..\\Bank Project\\Bank Project\\Bank Project 2\\Bank Project\\x64\\Debug\\Screens\\Client\\clsFindClientScreen.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:19:55.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsClientListScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsClientListScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsClientListScreen.h",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:19:45.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "clsDepositionScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDepositionScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsDepositionScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDepositionScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsDepositionScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:17:59.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "Bank OOP project\\clsDeleteClientScreen.h",
+              "ToolTip": "C:\\Adham\\courses 1 to 13\\course 11\\Bank OOP Project\\Bank OOP project\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "Bank OOP project\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-14T13:12:15.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
