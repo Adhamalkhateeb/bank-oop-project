@@ -1,18 +1,13 @@
-# Ignore VS files
-*.vs
+# Ignore build and debug files
+x64/
+Debug/
+Release/
+*.aps
+*.ncb
+*.sdf
 *.suo
-*.user
-*.cache
+*.ilk
+*.obj
 *.pdb
 *.ipch
-*.db
-*.log
-
-# Ignore compiled binaries
-/bin/
-/obj/
-*.exe
-*.dll
-
-# Ignore hidden system files
-Thumbs.db
+*.tlog
