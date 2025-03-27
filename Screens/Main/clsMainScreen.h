@@ -8,7 +8,7 @@
 #include "../../Screens/Clients/clsDeleteClientScreen.h"
 #include "../../Screens/Clients//clsUpdateClientScreen.h"
 #include "../../Screens/Clients/clsFindClientScreen.h"
-#include "../../Screens/Transactions/clsTransferScreen.h"
+#include "../../Screens/Transactions/clsTransactionScreen.h"
 #include "../../Screens/Users/clsManageUsers.h"
 #include "../../clsGlobal.h"
 #include "../Authentication/clsLoginRegisterScreen.h"
@@ -72,7 +72,7 @@ private:
 
     static void _ShowTransactionsMenu()
     {
-        clsTransferScreen::ShowTransferScreen();
+        clsTransactionsScreen::ShowTransactionsMenu();
     }
 
     static void _ShowManageUsersMenu()
